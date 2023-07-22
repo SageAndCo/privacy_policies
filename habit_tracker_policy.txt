@@ -1,0 +1,1 @@
+All data saved in Habit Tracker is saved locally on your device and not collected. This data is not encrypted and users are responsible for the content and safety of the data they save.
